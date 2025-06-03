@@ -74,7 +74,3 @@ It uses Express for the web server, Mongoose for talking to MongoDB, Passport fo
 Sure, why not? If you have ideas or find bugs, feel free to open an issue or send a pull request.
 
 ---
-
-Hope that sounds a bit more like a human wrote it!# Discord Login Thingy with Express
-
-So, this is a little Express app that lets people log in using their Discord account. Pretty standard stuff: it uses Passport for the heavy lifting with Discord, saves user info in MongoDB, and keeps track of who's logged in with sessions.
